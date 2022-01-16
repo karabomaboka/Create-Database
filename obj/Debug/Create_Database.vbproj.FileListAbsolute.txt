@@ -1,0 +1,11 @@
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\bin\Debug\Create_Database.exe.config
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\bin\Debug\Create_Database.exe
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\bin\Debug\Create_Database.pdb
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\bin\Debug\Create_Database.xml
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\obj\Debug\Create_Database.vbprojResolveAssemblyReference.cache
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\obj\Debug\WindowsApplication1.Form1.resources
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\obj\Debug\WindowsApplication1.Resources.resources
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\obj\Debug\Create_Database.vbproj.GenerateResource.Cache
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\obj\Debug\Create_Database.exe
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\obj\Debug\Create_Database.xml
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch02\Create_Database\obj\Debug\Create_Database.pdb
